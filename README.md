@@ -1,0 +1,1 @@
+# Diabetes-prediction-Using-SVM-Algo
